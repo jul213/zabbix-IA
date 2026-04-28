@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+.env
+# Si tienes la carpeta de datos de zabbix fuera del contenedor:
+zabbix_data/
