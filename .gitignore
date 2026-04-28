@@ -1,0 +1,12 @@
+.cache/
+.docker/
+zabbix_db_data/
+.bash_history
+.bashrc
+.profile
+.motd_shown
+.sudo_as_admin_successful
+.bash_logout
+.aws/
+.azure/
+*.deb
